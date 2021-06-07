@@ -1,4 +1,4 @@
-# Retail bubble stock market simulation
+# Retail stock market bubble simulation
 What behavioral traits are important to :win: and what impacts the overall market behavior?
 
 For more see [the blog post](https://ronaldluc.com/ml/system-models/).
